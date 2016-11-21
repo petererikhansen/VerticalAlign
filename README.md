@@ -1,4 +1,4 @@
-# VerticalAlign
+# VerticalAlignElement
 ##How to vertical align any element in a HTML document.
 
 Project source can be downloaded from<br>
