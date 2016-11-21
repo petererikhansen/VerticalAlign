@@ -1,5 +1,5 @@
 # VerticalAlign
-How to vertical align any element
+How to vertical align any element in a HTML document.
 
 Project source can be downloaded from<br>
 https://github.com/petererikhansen/VerticalAlign.git
